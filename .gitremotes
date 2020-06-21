@@ -1,0 +1,4 @@
+[remote "upstream"]
+        url = https://github.com/saltstack-formulas/docker-formula
+        fetch = +refs/heads/*:refs/remotes/upstream/*
+
